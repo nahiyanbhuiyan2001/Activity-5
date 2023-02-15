@@ -4,7 +4,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-
+//I tried my very best, I was having a few issues scanning the api databsae for the sunrise times
 
 namespace SunriseSunsetApiExample
 {
