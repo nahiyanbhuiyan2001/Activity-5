@@ -1,3 +1,3 @@
 # Activity-5
 
-The Activity 5 is in WebAPI folder. I gave it my best shot. I was having difficulty. So, I was using youtube tutorials and your slides to create it.
+Activity 5 assignment is in the WebAPI Client folder. I gave it my best shot. Since I was having difficulty, I used youtube tutorials and your slides to help me.
